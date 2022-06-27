@@ -1,0 +1,54 @@
+.input-to-do {
+    border: 1px solid #2125293f;
+}
+
+
+.input-to-do:focus {
+    box-shadow: none;
+    border: 1px solid #212529;
+}
+
+.input-to-do:focus {
+    box-shadow: none;
+}
+
+.to-do-list {
+    margin: 20px;
+    padding: 10px 30px;
+}
+
+#listCOl {
+    text-align: left;
+    text-transform: capitalize;
+}
+
+#btn2,
+#btn3 {
+    margin-left: 5px;
+}
+
+.btns {
+    text-align: right;
+    padding: 0;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.btn-disable {
+    cursor: not-allowed;
+    pointer-events: none;
+
+    /*Button disabled - CSS color class*/
+    color: #c0c0c0;
+    background-color: #ffffff;
+
+}
+
+.btn-disable:focus {
+    box-shadow: none;
+    
+    color: #c0c0c0;
+    background-color: #ffffff;
+}
