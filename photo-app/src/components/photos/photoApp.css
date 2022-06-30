@@ -1,0 +1,17 @@
+.photo-img {
+    height: 250px;
+    width: 100%;
+}
+.single-photo {
+    margin:10px 0;
+
+}
+.spinnerr {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.btns {
+   display: flex;
+   justify-content: space-between;
+}
