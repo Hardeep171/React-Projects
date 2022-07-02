@@ -1,0 +1,42 @@
+{
+    "1":{
+        "message":"Hey!",
+        "count":1
+    },
+    "2":{
+        "message":"Hey! How Are you Doing?✌️",
+        "count":1
+    },
+    "3":{
+        "message":"where Are you??",
+        "count":3
+    },
+    "4":{
+        "message":"Whats the plan Bro??😜",
+        "count":2
+    },
+    "5":{
+        "message": ".....??",
+        "count":3
+    },
+    "6":{
+        "message":"You are coming today??",
+        "count":2
+    },
+    "7":{
+        "message":"congatulations!🥳",
+        "count":1
+    },
+    "8":{
+        "message":"This is beautiful picture 😇",
+        "count":2
+    },
+    "9":{
+        "message":"Lets Catch up!😘",
+        "count":3
+    },
+    "10":{
+        "message":"What about You?",
+        "count":4
+    }
+}

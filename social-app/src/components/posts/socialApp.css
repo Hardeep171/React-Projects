@@ -1,0 +1,34 @@
+
+.over {
+width:600px;
+overflow-y: auto;
+height: 900px;
+}
+.post-container {
+   width: 1200px;
+   margin-top: 10px;
+}
+.photo-img {
+    height: 300px;
+}
+.spinnerr {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.action-btn-outer {
+    display: block;
+    text-align: right;
+}
+
+ .card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
