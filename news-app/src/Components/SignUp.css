@@ -1,0 +1,14 @@
+.outer-div {
+    text-align: center;
+}
+
+.form-div .col-md-4{
+    margin:20px auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.txt {
+    font-size: 20px;
+}

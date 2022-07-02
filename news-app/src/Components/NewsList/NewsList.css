@@ -1,0 +1,28 @@
+
+
+.single-news .card-img-top {
+    height: 220px;
+}
+
+.single-news .card-title {
+   height: 80px;
+}
+
+.single-news .card {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 600x;
+  
+}
+.cardBody {
+    position: relative;
+    height: 100%
+}
+.cardBoy .singleButton {
+    position: absolute;
+    bottom: 10px;
+}
+
+div.card {
+    height: 460px;
+}
