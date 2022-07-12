@@ -1,0 +1,44 @@
+
+
+.form-div {
+    margin: 50px auto;
+}
+
+.form-text {
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+.col-md-5 {
+    border: 2px solid black;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.col-md-5 input {
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.btnbtn {
+    color: blue;
+    text-decoration: underline;
+    font-size: 20px;
+    background-color: white;
+}
+.btnbtn:hover {
+    color: blue;
+    
+}
+.btnbtn:focus {
+    box-shadow: none;
+}
+
+.text {
+    font-size: 30px;
+}
+
+.wrong {
+    color: red;
+}
