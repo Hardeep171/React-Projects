@@ -1,0 +1,53 @@
+
+.info-div{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 15px 50px;
+    
+}
+
+.crypto-form input {
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 30px;
+    margin: 20px;
+    text-align: center;
+    padding: 5px 10px;
+}
+.btn {
+    font-size: 30px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+    padding: 2px 5px;
+}
+
+/* .info-div p,img {
+    margin: 5px;
+} */
+
+.info-div div {
+    margin-left: 0px;
+}
+
+.elements {
+    margin:0px auto;
+    width: 100%;
+    margin-left: 0px;
+}
+.elements2 {
+    margin-left: 0px;
+    /* background-color: ; */
+}
+
+.text {
+    text-transform: capitalize;
+    
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.img {
+    width: 30px;
+}
